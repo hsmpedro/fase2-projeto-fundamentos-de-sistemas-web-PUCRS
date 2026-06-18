@@ -1,0 +1,36 @@
+body {
+    padding: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-links {
+    text-align: center;
+    padding: 10px;
+    background-color: #1d888b;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+}
+
+.carousel-item {
+    height: 550px;
+    width: auto;
+}
+
+.formulario {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.titulos {
+    text-align: center;
+    margin: 30px;
+}
+
+.botao button {
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
